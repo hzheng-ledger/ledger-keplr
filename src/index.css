@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'AvenirLTStd-Black';
+  src: local('AvenirLTStd-Black'), url(./assets/fonts/AvenirLTStd-Black.otf) format('truetype');
+}
+@font-face {
+  font-family: 'AvenirLTStd-Heavy';
+  src: local('AvenirLTStd-Heavy'), url(./assets/fonts/AvenirLTStd-Heavy.otf) format('truetype');
+}
+@font-face {
+  font-family: 'AvenirLTStd-Medium';
+  src: local('AvenirLTStd-Medium'), url(./assets/fonts/AvenirLTStd-Medium.otf) format('truetype');
+}
+@font-face {
+  font-family: 'AvenirLTStd-Light';
+  src: local('AvenirLTStd-Light'), url(./assets/fonts/AvenirLTStd-Light.otf) format('truetype');
+}
+@font-face {
+  font-family: 'FuturaStd-ExtraBold';
+  src: local('FuturaStd-ExtraBold'), url(./assets/fonts/FuturaStd-ExtraBold.otf) format('truetype');
+}
+@font-face {
+  font-family: 'FuturaStd-Bold';
+  src: local('FuturaStd-Bold'), url(./assets/fonts/FuturaStd-Bold.otf) format('truetype');
+}
+@font-face {
+  font-family: 'FuturaStd-Medium';
+  src: local('FuturaStd-Medium'), url(./assets/fonts/FuturaStd-Medium.otf) format('truetype');
+}
+@font-face {
+  font-family: 'FuturaStd-Light';
+  src: local('FuturaStd-Light'), url(./assets/fonts/FuturaStd-Light.otf) format('truetype');
+}
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'AvenirLTStd-Light', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
